@@ -8,9 +8,6 @@ on:
       - master
       - develop
   pull_request:
-      - main
-      - master
-      - develop
 
 jobs:
   job_build_release_plugin:
